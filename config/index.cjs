@@ -7,11 +7,11 @@
  */
 const USER_CONFIG = {
 
-  // 使用微信测试号：wx234fa07927f319f9
-  APP_ID: '',
+  // 使用微信测试号：
+  APP_ID: 'wx234fa07927f319f9',
 
-  // 使用微信测试号：8580104d8d8fee7590852e201e02f2c9
-  APP_SECRET: '',
+  // 使用微信测试号：
+  APP_SECRET: '8580104d8d8fee7590852e201e02f2c9',
 
   PROVINCE: '陕西',
   CITY: '西安',
@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '臭宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'o5D7o5tIPYriYJQLK3H8lk6GH-q4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
